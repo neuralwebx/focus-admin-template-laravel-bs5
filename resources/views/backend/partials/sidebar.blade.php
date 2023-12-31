@@ -9,7 +9,7 @@
                 <li class="active"><a class="sidebar-sub-toggle"><i class="ti-home"></i> Dashboard  <span
                             class="sidebar-collapse-icon ti-angle-down"></span></a>
                     <ul>
-                        <li><a href="{{ route('mstr') }}">Dashboard 1</a></li>
+                        <li><a href="{{ route('mstr') }}">Dashboard </a></li>
                         {{-- <li><a href="index1.html">Dashboard 2</a></li> --}}
                     </ul>
                 </li>
