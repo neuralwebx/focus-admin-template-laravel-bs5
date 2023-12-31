@@ -2,7 +2,7 @@
     <div class="nano">
         <div class="nano-content">
             <ul>
-                <div class="logo"><a href="index.html">
+                <div class="logo"><a href="{{ route('mstr') }}">
                         <!-- <img src="assets/images/logo.png" alt="" /> --><span>Admin Panel</span>
                     </a></div>
                 <li class="label">Main</li>
